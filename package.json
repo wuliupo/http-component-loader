@@ -1,6 +1,6 @@
 {
   "name": "http-component-loader",
-  "version": "1.2.1",
+  "version": "1.0.0",
   "description": "load html/js/css lazy for component on browser.",
   "main": "index.js",
   "scripts": {
