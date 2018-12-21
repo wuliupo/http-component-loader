@@ -1,0 +1,23 @@
+{
+  "name": "http-component-loader",
+  "version": "1.2.1",
+  "description": "load html/js/css lazy for component on browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuliupo/http-component-loader.git"
+  },
+  "keywords": [
+    "http component loader",
+    "vue component loader"
+  ],
+  "author": "Liupo WU",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wuliupo/http-component-loader/issues"
+  },
+  "homepage": "https://github.com/wuliupo/http-component-loader#readme"
+}
